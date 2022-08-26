@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XFQy7IL0R3AVvTPJOwwwkQHbIu7peJ0pG+zx2yicf9K/9iKBRblXZynvhBcz4H+2JwScsGddBo51zFizPTivdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josep\\workspace\\MagicMoose\\MagicMoose.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josep\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

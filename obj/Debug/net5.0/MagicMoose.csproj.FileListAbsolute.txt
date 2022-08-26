@@ -1,0 +1,16 @@
+C:\Users\Josep\workspace\MagicMoose\bin\Debug\net5.0\MagicMoose.exe
+C:\Users\Josep\workspace\MagicMoose\bin\Debug\net5.0\MagicMoose.deps.json
+C:\Users\Josep\workspace\MagicMoose\bin\Debug\net5.0\MagicMoose.runtimeconfig.json
+C:\Users\Josep\workspace\MagicMoose\bin\Debug\net5.0\MagicMoose.runtimeconfig.dev.json
+C:\Users\Josep\workspace\MagicMoose\bin\Debug\net5.0\MagicMoose.dll
+C:\Users\Josep\workspace\MagicMoose\bin\Debug\net5.0\MagicMoose.pdb
+C:\Users\Josep\workspace\MagicMoose\obj\Debug\net5.0\MagicMoose.csproj.AssemblyReference.cache
+C:\Users\Josep\workspace\MagicMoose\obj\Debug\net5.0\MagicMoose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josep\workspace\MagicMoose\obj\Debug\net5.0\MagicMoose.AssemblyInfoInputs.cache
+C:\Users\Josep\workspace\MagicMoose\obj\Debug\net5.0\MagicMoose.AssemblyInfo.cs
+C:\Users\Josep\workspace\MagicMoose\obj\Debug\net5.0\MagicMoose.csproj.CoreCompileInputs.cache
+C:\Users\Josep\workspace\MagicMoose\obj\Debug\net5.0\MagicMoose.dll
+C:\Users\Josep\workspace\MagicMoose\obj\Debug\net5.0\refint\MagicMoose.dll
+C:\Users\Josep\workspace\MagicMoose\obj\Debug\net5.0\MagicMoose.pdb
+C:\Users\Josep\workspace\MagicMoose\obj\Debug\net5.0\MagicMoose.genruntimeconfig.cache
+C:\Users\Josep\workspace\MagicMoose\obj\Debug\net5.0\ref\MagicMoose.dll
